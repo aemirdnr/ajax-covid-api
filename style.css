@@ -1,0 +1,4 @@
+#covid__box:hover {
+    transition: transform 400ms ease-in-out;
+    transform: scale(1.03);
+}
